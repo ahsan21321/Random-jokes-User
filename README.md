@@ -81,3 +81,7 @@
     </script>
 </body>
 </html>
+![Randm Jokes Interface](https://github.com/user-attachments/assets/332aa72b-6438-4726-94b5-df6f40e619f6)
+![Genrated Jokes   Users](https://github.com/user-attachments/assets/cd87b72d-9a18-4b79-8c00-52b33dc589bb)
+
+
